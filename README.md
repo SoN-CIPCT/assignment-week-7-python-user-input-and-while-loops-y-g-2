@@ -1,5 +1,5 @@
 # Week7 Python User Input and While Loops
-Create one Python file homework8_<firstname_lastname>.py and perform the following exercises:
+Create one Python file homework7_<firstname_lastname>.py and perform the following exercises:
 You are in charge of making sure all pizza orders are made on time at your restaurant.  Perform the following to check that all orders have been fulfilled.
 1.	Make a list called pizza_orders and populate it with names of pizzas that have been ordered.
 2.	Make an empty list called finished_pizzas.
